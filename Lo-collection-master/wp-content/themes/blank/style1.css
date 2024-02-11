@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  justify-content: flex-end;
+  align-items: right;
+  padding: 10px 4%;
+  background-color: rgba(91,55,21,1);
+}
+
+li a:hover {
+  background-color: blue;
+  color: white;
+}
